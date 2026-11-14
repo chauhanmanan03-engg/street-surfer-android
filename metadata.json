@@ -1,0 +1,6 @@
+{
+  "name": "Street Surfer",
+  "description": "Vibrant sunlit 3D urban endless runner with three-lane parkour, trains, power-ups, missions, and local progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
